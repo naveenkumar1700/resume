@@ -1,0 +1,19 @@
+.sidenavbar-container {
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.image-container {
+    text-align: center;
+    width: 100%;
+
+}
+
+.sideNav-image {
+    height: 150px;
+    width: 150px;
+}
